@@ -1,1 +1,1 @@
-# Django_querysets_managers
+# Django Querysets & Managers
